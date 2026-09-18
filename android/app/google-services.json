@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "125312554450",
+    "firebase_url": "https://ondemandhomeservices-aade8-default-rtdb.firebaseio.com",
+    "project_id": "ondemandhomeservices-aade8",
+    "storage_bucket": "ondemandhomeservices-aade8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125312554450:android:177c0a9d0111742344e40b",
+        "android_client_info": {
+          "package_name": "com.example.on_demand_home_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125312554450-e7e531p8083qjcesdenh81skqb987tjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.on_demand_home_services",
+            "certificate_hash": "ba48f0b42e60a02bb3d4be637449ed179de302e3"
+          }
+        },
+        {
+          "client_id": "125312554450-cgcrmg46hi3tocuk66vcv61hg9udpr26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB89vayceWERJ0SD44zZ8_MuYQ8BQL-Rgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125312554450-cgcrmg46hi3tocuk66vcv61hg9udpr26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

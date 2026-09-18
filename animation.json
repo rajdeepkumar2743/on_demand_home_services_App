@@ -1,0 +1,6 @@
+your_project/
+├── assets/
+│   ├── animation.json
+│   └── service_placeholder.png
+├── lib/
+└── pubspec.yaml

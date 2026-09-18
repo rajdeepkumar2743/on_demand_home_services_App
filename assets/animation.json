@@ -1,0 +1,15 @@
+
+on_demand_home_services/
+├── assets/
+│   ├── animation.json
+│   └── service_placeholder.png
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   ├── providers/
+│   └── widgets/
+├── pubspec.yaml
+├── android/
+├── ios/
+├── test/
+└── README.md
